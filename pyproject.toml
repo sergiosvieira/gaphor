@@ -167,7 +167,6 @@ testpaths = [
     "tests",
     "docs",
 ]
-python_files = "test_*.py"
 
 # for coverage: --cov=gaphor/
 addopts = "--doctest-modules"
